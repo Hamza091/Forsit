@@ -20,8 +20,8 @@ A FastAPI-based backend for e-commerce admin dashboards, providing sales, revenu
 
 ### 1. Clone the repository
 ```
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/Hamza091/Forsit.git
+cd Forsit
 ```
 
 ### 2. Configure Environment
