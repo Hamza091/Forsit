@@ -59,6 +59,3 @@ docker-compose up --build
 
 You can also access interactive API documentation via FastAPI's built-in Swagger UI at:
 - `GET /docs` — interactive OpenAPI documentation for all endpoints.
-
-## License
-Confidential. For assessment use only. 
